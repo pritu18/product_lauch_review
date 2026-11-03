@@ -1,0 +1,5 @@
+streamlit
+agno>=2.2.10
+google-genai>=2.0.0
+firecrawl-py
+python-dotenv
